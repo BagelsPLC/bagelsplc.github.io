@@ -7,9 +7,11 @@ center{
   padding-top: calc(200px + 8vh);
   padding-right: 30px;
 }
+
 body{
   background-image: url("border.png");
   background-position: center;
   background-size: contain;
-  background-color: black
+  background-color: black;
+  color: white;
 }
