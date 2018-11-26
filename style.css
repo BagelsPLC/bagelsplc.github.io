@@ -1,0 +1,15 @@
+center{
+  color: #CFB53B;
+  font-size: 70px;
+  font-size: calc(70px + 5vw);
+  font-family: "Snell Roundhand";
+  padding-top: 160px;
+  padding-top: calc(160px + 8vh);
+  padding-right: 30px;
+}
+body{
+  background-image: url("border.png");
+  background-position: center;
+  background-size: contain;
+  background-color: black
+}
