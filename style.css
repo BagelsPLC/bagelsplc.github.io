@@ -1,11 +1,22 @@
-center{
-  color: #CFB53B;
+h1{
+  color:#D4AF37;
   font-size: 100px;
-  font-size: calc(70px + 5vw);
+  font-size: calc(90px + 5vw);
   font-family: "Snell Roundhand";
-  padding-top: 200px;
-  padding-top: calc(200px + 8vh);
+  padding-top: 160px;
+  padding-top: calc(240px + 8vh);
   padding-right: 30px;
+  text-align: center;
+  line-height: 0.1;
+}
+
+h2{
+  color: white;
+  font-family: "Snell Roundhand";
+  font-size: 30px;
+  text-align: center;
+  margin-top: 1px;
+  line-height: 0.5;
 }
 
 body{
@@ -13,5 +24,4 @@ body{
   background-position: center;
   background-size: contain;
   background-color: black;
-  color: white;
 }
