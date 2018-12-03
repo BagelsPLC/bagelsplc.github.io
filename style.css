@@ -25,3 +25,10 @@ body{
   background-size: contain;
   background-color: black;
 }
+
+div{
+  position:absolute;
+      transition: .5s ease;
+      top: 70%;
+      left: 47%;
+}
